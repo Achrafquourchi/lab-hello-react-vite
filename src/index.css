@@ -61,6 +61,7 @@ button {
   color: #1b2235;
   font-weight: bold;
   font-size: 18px;
+  cursor: pointer;
 }
 
 .main-content {
